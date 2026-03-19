@@ -1,26 +1,55 @@
-# Task Collaboration Platform – Backend
+# 🚀 Task Collaboration Platform
 
-## Tech Stack
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- Postman
+## 📌 Overview
 
-## Features
-- User Login
-- Create Board
-- Create List
-- Create Task
-- GET and DELETE APIs
+This project is a Task Collaboration Platform designed to help users manage tasks efficiently, collaborate with team members, and track progress in real-time.
 
-## How to Run
-1. npm install
-2. Create .env file with:
-   MONGO_URI=your_mongodb_url
-   PORT=5000
-3. node server.js
-4. Test APIs using Postman
+---
 
-## Author
-Kaviya
+## 🛠️ Technologies Used
+
+* Frontend: HTML, CSS, JavaScript
+* Backend: Node.js
+* Database: (Add if used - MongoDB / MySQL)
+
+---
+
+## ✨ Features
+
+* Create, update, and delete tasks
+* Assign tasks to users
+* Track task progress
+* User-friendly interface
+* Real-time collaboration
+
+---
+
+## 📂 Project Structure
+
+* `src/` → Source code
+* `package.json` → Project dependencies
+* `README.md` → Project documentation
+
+---
+
+## 🚀 Installation
+
+```bash
+npm install
+npm start
+```
+
+---
+
+## 👩‍💻 Author
+
+Kaviyasri
+
+---
+
+## 📌 Future Improvements
+
+* Add authentication
+* Improve UI/UX
+* Add notifications system
+
